@@ -1,11 +1,1 @@
 # projeto-agrinho-desmatamento
-button {
-  background-color: ______;
-  color: ______;
-  border-radius: ______;
-  transition: ______;
-}
-
-button:hover {
-  ________________: #2980b9;
-}
